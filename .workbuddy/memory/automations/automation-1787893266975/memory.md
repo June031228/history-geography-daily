@@ -61,6 +61,19 @@
 - **Progress**: next_lesson=8, last_published_date=2026-09-08, last_published_type=lesson_007
 - **Next expected**: 2026-09-09 (Wednesday) → Lesson 008 (三星堆：神秘的古蜀王国)
 
+## 2026-09-09 (Wednesday) 16:00 - Execution Log
+
+- **Trigger time**: 2026-09-09 16:00 GMT+8
+- **Date role**: Week 2, Day 3 (Wednesday) → Lesson 008
+- **Status**: SUCCESS
+- **Lesson title**: 三星堆——神秘的古蜀王国
+- **Lesson file**: lessons/2026-09-09-第008课-三星堆.md (created)
+- **GitHub**: commit cf52479 pushed to main successfully (32a613d → cf52479); second commit 211125e for automation memory log push (cf52479 → 211125e)
+- **Tencent Docs**: smartcanvas.edit INSERT_AFTER (id 留空 = 追加到文档末尾) succeeded via tencentdocs.py tdoc_call, trace_id=0e02a972e9214bb6b1e81b14b90252d6, error="". Verified via find query: 主 heading "第 008 课：三星堆——神秘的古蜀王国" (id=pjAwS720mw4pBAsIF22K7m) + 三个二级标题 (uAOQ5F2Z7M9Atz2JJ7RUrs 今日事件、dkPxwFD2GOcFRBIC7LyxPf 发生地今昔、nivZd9xqU3VlNpSh1loXqG 当地一俗) + 正文段落 + 上节回顾 (idb4U4MjNqKmeiCouKleLu) + 明日预告 (Xujfg7RQ0ZEtcKA7ni4lXF) 全部已写入文档末尾
+- **MDX 合规性**: 全文遵循 mdx_references 规范——`#`/`##` 标题、`<Callout>` 高亮块、`<Mark bold>` 行内样式、`<BulletedList>` 列表；无 Markdown 加粗 (`**`),无 Markdown 表格
+- **Progress**: next_lesson=9, last_published_date=2026-09-09, last_published_type=lesson_008
+- **Next expected**: 2026-09-10 (Thursday) → Lesson 009 (盘庚迁殷)
+
 ## 2026-09-04 (Friday) 16:00 - Execution Log
 
 - **Trigger time**: 2026-09-04 16:00 GMT+8
