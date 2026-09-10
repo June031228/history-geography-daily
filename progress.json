@@ -5,10 +5,11 @@
   "start_date": "2026-08-31",
   "total_lessons": 150,
   "next_lesson": 9,
-  "last_published_date": "2026-09-09",
-  "last_published_type": "lesson_008",
+  "last_published_date": "2026-09-10",
+  "last_published_type": "review_week_01",
   "tencent_doc": {
     "file_id": "WCXltHmkirOb",
     "url": "https://docs.qq.com/aio/DV0NYbHRIbWtpck9i"
-  }
+  },
+  "last_makeup_for_date": "2026-09-06"
 }
