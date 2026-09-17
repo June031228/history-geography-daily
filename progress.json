@@ -5,19 +5,20 @@
   "start_date": "2026-08-31",
   "total_lessons": 150,
   "next_lesson": 11,
-  "last_published_date": "2026-09-16",
-  "last_published_type": "lesson_012",
+  "last_published_date": "2026-09-17",
+  "last_published_type": "lesson_013",
   "tencent_doc": {
     "file_id": "WCXltHmkirOb",
     "url": "https://docs.qq.com/aio/DV0NYbHRIbWtpck9i"
   },
-  "last_makeup_for_date": "2026-09-15",
+  "last_makeup_for_date": "2026-09-16",
   "makeup_published_dates": [
     "2026-09-06",
     "2026-09-10",
     "2026-09-11",
     "2026-09-12",
     "2026-09-13",
-    "2026-09-15"
+    "2026-09-15",
+    "2026-09-16"
   ]
 }
